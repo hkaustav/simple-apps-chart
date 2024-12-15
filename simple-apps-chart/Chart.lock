@@ -1,0 +1,12 @@
+dependencies:
+- name: common-chart
+  repository: file://../common-chart
+  version: 0.1.0
+- name: common-chart
+  repository: file://../common-chart
+  version: 0.1.0
+- name: common-chart
+  repository: file://../common-chart
+  version: 0.1.0
+digest: sha256:2ae874bfc8e7f4958d7a74ed09dd2ee26141be1e37c28d5e438e6d8a1f242b8e
+generated: "2024-12-15T15:09:22.043646+05:30"
